@@ -12,6 +12,8 @@
 		D5C75BE420B2790900C71FD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C75BE220B2790900C71FD4 /* Main.storyboard */; };
 		D5C75BE620B2790B00C71FD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5C75BE520B2790B00C71FD4 /* Assets.xcassets */; };
 		D5C75BE920B2790B00C71FD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C75BE720B2790B00C71FD4 /* LaunchScreen.storyboard */; };
+		D5C75BF520B3978B00C71FD4 /* RegisterStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C75BF420B3978B00C71FD4 /* RegisterStoryboard.storyboard */; };
+		D5C75BF920B39A8B00C71FD4 /* ClientStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5C75BF820B39A8B00C71FD4 /* ClientStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		D5C75BE520B2790B00C71FD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D5C75BE820B2790B00C71FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D5C75BEA20B2790B00C71FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5C75BF420B3978B00C71FD4 /* RegisterStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = RegisterStoryboard.storyboard; sourceTree = "<group>"; };
+		D5C75BF820B39A8B00C71FD4 /* ClientStoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = ClientStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				D5C75BE520B2790B00C71FD4 /* Assets.xcassets */,
 				D5C75BE720B2790B00C71FD4 /* LaunchScreen.storyboard */,
 				D5C75BEA20B2790B00C71FD4 /* Info.plist */,
+				D5C75BF420B3978B00C71FD4 /* RegisterStoryboard.storyboard */,
+				D5C75BF820B39A8B00C71FD4 /* ClientStoryboard.storyboard */,
 			);
 			path = Mikhuna;
 			sourceTree = "<group>";
@@ -123,7 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5C75BE920B2790B00C71FD4 /* LaunchScreen.storyboard in Resources */,
+				D5C75BF920B39A8B00C71FD4 /* ClientStoryboard.storyboard in Resources */,
 				D5C75BE620B2790B00C71FD4 /* Assets.xcassets in Resources */,
+				D5C75BF520B3978B00C71FD4 /* RegisterStoryboard.storyboard in Resources */,
 				D5C75BE420B2790900C71FD4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
